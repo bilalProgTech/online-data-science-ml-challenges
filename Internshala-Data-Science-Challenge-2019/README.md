@@ -24,7 +24,7 @@ Internshala Data Science Challenge 2019
 
 # Leaderboard
 
-<img src="https://github.com/bilalProgTech/Paying-Insurance-Premium/blob/master/data/internshala.PNG">
+<img src="https://github.com/bilalProgTech/online-data-science-ml-challenges/blob/master/Internshala-Data-Science-Challenge-2019/data/internshala.PNG">
 
 # Credits for data and hackathon:
 https://datahack.analyticsvidhya.com/contest/all/ 
