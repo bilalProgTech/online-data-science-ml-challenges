@@ -18,5 +18,5 @@ https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/
 * Deep Neural Network with 2 layers
 
 # Leaderboard Accuracy
-Public LB: 0.6829209644 Rank-24
-Private LB: 0.6913890812 Rank-8
+Public LB: 0.6829209644 <b>Rank-24</b> <br/>
+Private LB: 0.6913890812 <b>Rank-8</b>
