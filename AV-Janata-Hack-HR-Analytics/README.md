@@ -9,7 +9,7 @@ To understand the factors that lead a person to look for a job change, the agenc
 https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/
 
 # Kaggle Link
-
+https://www.kaggle.com/iamhungundji/trees-and-neural-network-auc-0-6913
 
 # Approaches to predict the probability of an enrollee to look for a new job
 * LGBM Classifier
