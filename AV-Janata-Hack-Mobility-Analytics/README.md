@@ -4,14 +4,14 @@ Welcome to Sigma Cab Private Limited - a cab aggregator service. Their customers
 You have been hired by Sigma Cabs as a Data Scientist and have been asked to build a predictive model, which could help them in predicting the surge_pricing_type pro-actively. This would in turn help them in matching the right cabs with the right customers quickly and efficiently.
 
 # Link Reference
-https://www.machinehack.com/course/grocery-sales-forecast-weekend-hackathon-4/
+https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/
 
 # Kaggle Link
-
+https://www.kaggle.com/iamhungundji/mobility-analytics
 
 # Approaches to predict the Surge_Pricing_Type
 * LGBMClassifier
 
 # Leaderboard Accuracy
-Public LB: 0.7067230366
-Private LB: 0.7059450894
+Public LB: 0.7067230366 (Rank 28)
+Private LB: 0.7059450894 (Rank 12)
