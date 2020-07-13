@@ -7,7 +7,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-appar
 # Kaggle Link
 
 
-# Approaches to predict the probability of an enrollee to look for a new job
+# Approach to predict
 * 1 CNN Layer - Max Pooling Layer of 16 neurons
 * Flatten Layer
 * Dense Layer - 1024
